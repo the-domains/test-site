@@ -1,6 +1,6 @@
 name: Test site
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.1611275675240904
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: engagement
     item: null
     url: null
+typography_spectrum: 0.07718625315465033
